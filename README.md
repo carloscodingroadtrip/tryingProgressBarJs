@@ -2,4 +2,5 @@
 
 Here is a sample repo on how to use ProgressBarJs without the installation via npm.
 
-## Samples
+## Live site
+[ProgressBarJS Sampels](https://jovial-meninsky-4ffe88.netlify.app/)
